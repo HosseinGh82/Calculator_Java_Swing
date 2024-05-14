@@ -2,6 +2,8 @@
 
 This calculator application is designed to assist AP students in practicing problem-solving tasks.
 
+![Calculator Screenshot](calculator.png)
+
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
