@@ -2,7 +2,7 @@
 
 This calculator application is designed to assist AP students in practicing problem-solving tasks.
 
-![Calculator Screenshot](calculator.png)
+![Calculator Screenshot](\calculator.png)
 
 ## Features
 
