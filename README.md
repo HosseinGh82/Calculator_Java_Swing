@@ -2,14 +2,15 @@
 
 This calculator application is designed to assist AP students in practicing problem-solving tasks.
 
-![Calculator Screenshot](Calculator.PNG)
+![Calculator](https://github.com/user-attachments/assets/5d189fea-3aed-4052-ad32-003db55dbb58)
+
 
 ## ✨ Features
 
-- ➕ Basic arithmetic operations: addition, subtraction, multiplication, and division.
-- 🔢 Decimal point support.
-- 🧼 Clear and delete functions.
-- 🔄 Ability to toggle between positive and negative numbers.
+- Basic arithmetic operations: addition, subtraction, multiplication, and division.
+- Decimal point support.
+- Clear and delete functions.
+- Ability to toggle between positive and negative numbers.
 
 ## 💻 Installation
 
@@ -20,36 +21,45 @@ This calculator application is designed to assist AP students in practicing prob
    ```bash
    git clone https://github.com/yourusername/calculator-application.git
    cd calculator-application
-Compile the Code: Use the Java compiler (javac) to compile the Calculator.java file:
+   ```
+3. **Compile the Code**: Use the Java compiler (javac) to compile the Calculator.java file:
 
-bash
+```bash
 Copy code
 javac Calculator.java
-🚀 Usage
-Run the Application: Execute the compiled Java program:
+```
 
-bash
+## 🚀 Usage
+1. Run the Application: Execute the compiled Java program:
+
+```bash
 Copy code
 java Calculator
-User Interface:
+```
+2. User Interface:
 
-The calculator UI displays a text field for input and buttons for numbers, arithmetic operations, and functions.
-Performing Calculations:
+- The calculator UI displays a text field for input and buttons for numbers, arithmetic operations, and functions.
 
-Enter numbers using the numeric buttons.
-Use the function buttons for arithmetic operations: addition (+), subtraction (-), multiplication (*), and division (/).
-The decimal point button allows for entering decimal numbers.
-The Clear (Clr) button clears the input field.
-The Delete (Del) button removes the last digit entered.
-The Negative (-) button toggles the sign of the entered number.
-Pressing the equals (=) button computes the result of the operation.
-Viewing Results: The result of the calculation is displayed in the text field.
+3. Performing Calculations:
+   
+- Enter numbers using the numeric buttons.
+- Use the function buttons for arithmetic operations: addition (+), subtraction (-), multiplication (*), and division (/).
+- The decimal point button allows for entering decimal numbers.
+- The Clear (Clr) button clears the input field.
+- The Delete (Del) button removes the last digit entered.
+- The Negative (-) button toggles the sign of the entered number.
+- Pressing the equals (=) button computes the result of the operation.
+  
+4. Viewing Results: The result of the calculation is displayed in the text field.
 
-🧪 Example
+## 🧪 Example
 Addition:
-Enter the first number.
-Press the addition button (+).
-Enter the second number.
-Press the equals button (=) to see the result.
-📦 Dependencies
+1. Enter the first number.
+2. Press the addition button (+).
+3. Enter the second number.
+4. Press the equals button (=) to see the result.
+
+
+## 📦 Dependencies
+
 ☕ Java Development Kit (JDK)
