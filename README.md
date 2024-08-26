@@ -24,23 +24,22 @@ This calculator application is designed to assist AP students in practicing prob
    ```
 3. **Compile the Code**: Use the Java compiler (javac) to compile the Calculator.java file:
 
-```bash
-Copy code
-javac Calculator.java
-```
+   ```bash
+   Copy code
+   javac Calculator.java
+   ```
 
 ## 🚀 Usage
-1. Run the Application: Execute the compiled Java program:
+1. **Run the Application**: Execute the compiled Java program
 
-```bash
-Copy code
-java Calculator
-```
-2. User Interface:
+   ```bash
+   Copy code
+   java Calculator
+   ```
+   
+2. **User Interface**: The calculator UI displays a text field for input and buttons for numbers, arithmetic operations, and functions.
 
-- The calculator UI displays a text field for input and buttons for numbers, arithmetic operations, and functions.
-
-3. Performing Calculations:
+3. **Performing Calculations**:
    
 - Enter numbers using the numeric buttons.
 - Use the function buttons for arithmetic operations: addition (+), subtraction (-), multiplication (*), and division (/).
@@ -50,7 +49,7 @@ java Calculator
 - The Negative (-) button toggles the sign of the entered number.
 - Pressing the equals (=) button computes the result of the operation.
   
-4. Viewing Results: The result of the calculation is displayed in the text field.
+4. **Viewing Results**: The result of the calculation is displayed in the text field.
 
 ## 🧪 Example
 Addition:
