@@ -12,6 +12,18 @@ This calculator application is designed to assist AP students in practicing prob
 - Clear and delete functions.
 - Ability to toggle between positive and negative numbers.
 
+
+## 🧪 Example
+
+Addition:
+1. Enter the first number.
+2. Press the addition button (+).
+3. Enter the second number.
+4. Press the equals button (=) to see the result.
+
+https://github.com/user-attachments/assets/ea7f5e4f-af48-45b5-95e4-73cdf82147fa
+
+
 ## 💻 Installation
 
 1. **Ensure Java is Installed**: Make sure you have the Java Development Kit (JDK) installed on your computer. If not, you can download and install it from the [official Oracle website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
@@ -50,13 +62,6 @@ This calculator application is designed to assist AP students in practicing prob
 - Pressing the equals (=) button computes the result of the operation.
   
 4. **Viewing Results**: The result of the calculation is displayed in the text field.
-
-## 🧪 Example
-Addition:
-1. Enter the first number.
-2. Press the addition button (+).
-3. Enter the second number.
-4. Press the equals button (=) to see the result.
 
 
 ## 📦 Dependencies
