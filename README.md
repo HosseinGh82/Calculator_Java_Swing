@@ -37,7 +37,6 @@ https://github.com/user-attachments/assets/ea7f5e4f-af48-45b5-95e4-73cdf82147fa
 3. **Compile the Code**: Use the Java compiler (javac) to compile the Calculator.java file:
 
    ```bash
-   Copy code
    javac Calculator.java
    ```
 
@@ -45,7 +44,6 @@ https://github.com/user-attachments/assets/ea7f5e4f-af48-45b5-95e4-73cdf82147fa
 1. **Run the Application**: Execute the compiled Java program
 
    ```bash
-   Copy code
    java Calculator
    ```
    
